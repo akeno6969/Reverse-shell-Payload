@@ -1,0 +1,1 @@
+base64 OWOListener.sh > OWOListener_obfuscated.sh

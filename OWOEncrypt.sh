@@ -1,0 +1,1 @@
+openssl enc -aes-256-cbc -in victim_data.txt -out victim_data_encrypted.txt

